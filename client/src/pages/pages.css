@@ -1,0 +1,19 @@
+.attend-card {
+    height: 200px;
+}
+.attend-card:hover {
+    background-color: #fff;
+    cursor: pointer;
+}
+.attend-card img {
+    max-height: 145px;
+}
+.card-action {
+    display: none;
+}
+#event_instructions {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
